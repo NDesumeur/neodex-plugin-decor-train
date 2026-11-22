@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decortrain",
+  "repo": "NDesumeur/neodex-plugin-decor-train",
+  "version": "1.0.0",
+  "sha256": "8f2448ee813febe430bfc361ccc916954563bd696896d6667077e5aee504792b",
+  "approvedAt": "2026-11-22T19:05:25.709Z",
+  "neobase": ">=4.1.0",
+  "signature": "NGEYZvRpD4RSIp+jZfvNjXNNpQkyKAEkIi61QdhwXlIsvXXyVBmh8/m1vfVq/VGQExZnAC180KfzQwAiuhdfCw=="
+}
